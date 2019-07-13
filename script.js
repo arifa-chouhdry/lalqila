@@ -951,6 +951,23 @@ let lalQilaResturant = {
             NumberOfPeople: "100",
             Message: "ba bla bla",
         },
+        eventBooking: {
+            name: "jamila",
+            emailId: "abcd@gmail.com",
+            PhoneNo: "0333-2158336",
+            TypeOfEvent: "bla bla party",
+            NumberOfPeople: "100",
+            Message: "ba bla bla",
+        },
+        eventBooking: {
+            name: "akmal",
+            emailId: "abcd@gmail.com",
+            PhoneNo: "0333-2158336",
+            TypeOfEvent: "farewell party",
+            NumberOfPeople: "100",
+            Message: "ba bla bla",
+        },
+       
         contacts: [
             "0333-2158336",
             "033-21583366"]
